@@ -195,7 +195,8 @@ public class Scene2d {
         renderer.popText();
     }
 
-    public Point2d getMouseCoorinates() {
+    public Point2d getMouseCoordinates() {
         return new Point2d(renderer.mouseX, renderer.mouseY);
     }
 }
+
