@@ -96,7 +96,7 @@ Point2d mousePos = example.getMouseCoordinates();
 </details>
 
 <details>
-<summary>Renderer.java — Function List + What They Do</summary>
+<summary>Renderer (Low-Level Drawing)</summary>
 
 ## Constructor
 
